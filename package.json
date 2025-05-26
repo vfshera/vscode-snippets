@@ -1,0 +1,32 @@
+{
+  "name": "@vfshera/vscode-snippets",
+  "version": "0.0.0",
+  "description": "Share and install my VS Code snippets",
+  "type": "module",
+  "bin": {
+    "vscode-snippets": "./bin/cli.js"
+  },
+  "scripts": {
+    "generate": "node ./scripts/generate.js"
+  },
+  "keywords": [],
+  "author": "Franklin Shera",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfshera/vscode-snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vfshera/vscode-snippets/issues"
+  },
+  "homepage": "https://github.com/vfshera/vscode-snippets#readme",
+  "files": [
+    "bin",
+    "snippets",
+    "LICENSE",
+    "README.md"
+  ],
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
