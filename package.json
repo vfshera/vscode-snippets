@@ -1,6 +1,6 @@
 {
   "name": "@vfshera/vscode-snippets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Share and install my VS Code snippets",
   "type": "module",
   "bin": "./bin/cli.js",
