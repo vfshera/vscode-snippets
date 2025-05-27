@@ -1,5 +1,11 @@
 # @vfshera/vscode-snippets
 
+## 0.2.0
+
+### Minor Changes
+
+- [`2467ae9`](https://github.com/vfshera/vscode-snippets/commit/2467ae972c86784716af77e1c3e18e5041aa8e5e) Thanks [@vfshera](https://github.com/vfshera)! - add react-router-v7 snippets
+
 ## 0.1.1
 
 ### Patch Changes
