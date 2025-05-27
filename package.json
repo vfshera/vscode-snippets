@@ -1,6 +1,6 @@
 {
   "name": "@vfshera/vscode-snippets",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Share and install my VS Code snippets",
   "type": "module",
   "bin": {
