@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "Share and install my VS Code snippets",
   "type": "module",
-  "bin": {
-    "vscode-snippets": "./bin/cli.js"
-  },
+  "bin": "./bin/cli.js",
   "scripts": {
     "release": "pnpm changeset publish"
   },
