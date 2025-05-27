@@ -7,7 +7,7 @@
     "vscode-snippets": "./bin/cli.js"
   },
   "scripts": {
-    "release": "pnpm changelog publish"
+    "release": "pnpm changesets publish"
   },
   "keywords": [],
   "author": "Franklin Shera",
