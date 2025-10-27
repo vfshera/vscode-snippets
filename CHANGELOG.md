@@ -1,5 +1,11 @@
 # @vfshera/vscode-snippets
 
+## 0.3.0
+
+### Minor Changes
+
+- [`479c87e`](https://github.com/vfshera/vscode-snippets/commit/479c87e5762f93e405b91d1268da22c121c9af06) Thanks [@vfshera](https://github.com/vfshera)! - Fix component name generation when file starts with non-alphabet characters
+
 ## 0.2.0
 
 ### Minor Changes
